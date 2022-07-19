@@ -1,0 +1,17 @@
+{
+  "name": "p2p-simple-pear",
+  "version": "1.0.0",
+  "description": "simple-pear-example",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "nguyentranchan",
+  "license": "ISC",
+  "dependencies": {
+    "simple-peer": "^9.11.1"
+  },
+  "devDependencies": {
+    "budo": "^4.1.0"
+  }
+}
