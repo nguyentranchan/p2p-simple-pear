@@ -9,7 +9,8 @@
   "author": "nguyentranchan",
   "license": "ISC",
   "dependencies": {
-    "simple-peer": "^9.11.1"
+    "simple-peer": "^9.11.1",
+    "wrtc": "^0.4.7"
   },
   "devDependencies": {
     "budo": "^4.1.0"
