@@ -1,0 +1,16 @@
+{
+  "name": "peerjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node server.js",
+    "start": "budo index.js:bundle.js"
+  },
+  "author": "nguyentranchan",
+  "license": "ISC",
+  "dependencies": {
+    "peerjs": "^1.4.6",
+    "budo": "^4.1.0"
+  }
+}
